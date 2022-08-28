@@ -1,0 +1,139 @@
+[
+  {
+    "name" : "mk01",
+    "jobs" : 10,
+    "machines" : 6,
+    "optimum" : 40,
+    "path" : "brandimarte/mk01.txt"
+  },
+  {
+    "name" : "mk02",
+    "jobs" : 10,
+    "machines" : 6,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 26,
+      "lower" : 24
+    },
+    "path" : "brandimarte/mk02.txt"
+  },
+  {
+    "name" : "mk03",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : 204,
+    "path" : "brandimarte/mk03.txt"
+  },
+  {
+    "name" : "mk04",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : 60,
+    "path" : "brandimarte/mk04.txt"
+  },
+  {
+    "name" : "mk05",
+    "jobs" : 15,
+    "machines" : 4,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 172,
+      "lower" : 168
+    },
+    "path" : "brandimarte/mk05.txt"
+  },
+  {
+    "name" : "mk06",
+    "jobs" : 10,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 58,
+      "lower" : 33
+    },
+    "path" : "brandimarte/mk06.txt"
+  },
+  {
+    "name" : "mk07",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 139,
+      "lower" : 133
+    },
+    "path" : "brandimarte/mk07.txt"
+  },
+  {
+    "name" : "mk08",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 523,
+    "path" : "brandimarte/mk08.txt"
+  },
+  {
+    "name" : "mk09",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 307,
+    "path" : "brandimarte/mk09.txt"
+  },
+  {
+    "name" : "mk10",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 197,
+      "lower" : 175
+    },
+    "path" : "brandimarte/mk10.txt"
+  },
+  {
+    "name" : "mk11",
+    "jobs" : 30,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 615,
+      "lower" : 594
+    },
+    "path" : "brandimarte/mk11.txt"
+  },
+  {
+    "name" : "mk12",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 508,
+    "path" : "brandimarte/mk12.txt"
+  },
+  {
+    "name" : "mk13",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 430,
+      "lower" : 353
+    },
+    "path" : "brandimarte/mk13.txt"
+  },
+  {
+    "name" : "mk14",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : 694,
+    "path" : "brandimarte/mk14.txt"
+  },
+  {
+    "name" : "mk15",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 341,
+      "lower" : 283
+    },
+    "path" : "brandimarte/mk15.txt"
+  }
+]
