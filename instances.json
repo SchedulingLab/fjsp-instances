@@ -135,5 +135,1827 @@
       "lower" : 283
     },
     "path" : "brandimarte/mk15.txt"
+  },
+  {
+    "name" : "e-mt06",
+    "jobs" : 6,
+    "machines" : 6,
+    "optimum" : 55,
+    "path" : "hurink/edata/mt06.txt"
+  },
+  {
+    "name" : "e-mt10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 871,
+    "path" : "hurink/edata/mt10.txt"
+  },
+  {
+    "name" : "e-mt20",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1088,
+    "path" : "hurink/edata/mt20.txt"
+  },
+  {
+    "name" : "e-la01",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 609,
+    "path" : "hurink/edata/la01.txt"
+  },
+  {
+    "name" : "e-la02",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 655,
+    "path" : "hurink/edata/la02.txt"
+  },
+  {
+    "name" : "e-la03",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 550,
+    "path" : "hurink/edata/la03.txt"
+  },
+  {
+    "name" : "e-la04",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 568,
+    "path" : "hurink/edata/la04.txt"
+  },
+  {
+    "name" : "e-la05",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 503,
+    "path" : "hurink/edata/la05.txt"
+  },
+  {
+    "name" : "e-la06",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 833,
+    "path" : "hurink/edata/la06.txt"
+  },
+  {
+    "name" : "e-la07",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 762,
+    "path" : "hurink/edata/la07.txt"
+  },
+  {
+    "name" : "e-la08",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 845,
+    "path" : "hurink/edata/la08.txt"
+  },
+  {
+    "name" : "e-la09",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 878,
+    "path" : "hurink/edata/la09.txt"
+  },
+  {
+    "name" : "e-la10",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 866,
+    "path" : "hurink/edata/la10.txt"
+  },
+  {
+    "name" : "e-la11",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1103,
+      "lower" : 1087
+    },
+    "path" : "hurink/edata/la11.txt"
+  },
+  {
+    "name" : "e-la12",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 960,
+    "path" : "hurink/edata/la12.txt"
+  },
+  {
+    "name" : "e-la13",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1053,
+    "path" : "hurink/edata/la13.txt"
+  },
+  {
+    "name" : "e-la14",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1123,
+    "path" : "hurink/edata/la14.txt"
+  },
+  {
+    "name" : "e-la15",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1111,
+    "path" : "hurink/edata/la15.txt"
+  },
+  {
+    "name" : "e-la16",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 892,
+    "path" : "hurink/edata/la16.txt"
+  },
+  {
+    "name" : "e-la17",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 707,
+    "path" : "hurink/edata/la17.txt"
+  },
+  {
+    "name" : "e-la18",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 842,
+    "path" : "hurink/edata/la18.txt"
+  },
+  {
+    "name" : "e-la19",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 796,
+    "path" : "hurink/edata/la19.txt"
+  },
+  {
+    "name" : "e-la20",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 857,
+    "path" : "hurink/edata/la20.txt"
+  },
+  {
+    "name" : "e-la21",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1017,
+      "lower" : 895
+    },
+    "path" : "hurink/edata/la21.txt"
+  },
+  {
+    "name" : "e-la22",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 882,
+      "lower" : 832
+    },
+    "path" : "hurink/edata/la22.txt"
+  },
+  {
+    "name" : "e-la23",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : 950,
+    "path" : "hurink/edata/la23.txt"
+  },
+  {
+    "name" : "e-la24",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 909,
+      "lower" : 881
+    },
+    "path" : "hurink/edata/la24.txt"
+  },
+  {
+    "name" : "e-la25",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 941,
+      "lower" : 894
+    },
+    "path" : "hurink/edata/la25.txt"
+  },
+  {
+    "name" : "e-la26",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1125,
+      "lower" : 1089
+    },
+    "path" : "hurink/edata/la26.txt"
+  },
+  {
+    "name" : "e-la27",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1186,
+      "lower" : 1181
+    },
+    "path" : "hurink/edata/la27.txt"
+  },
+  {
+    "name" : "e-la28",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1149,
+      "lower" : 1116
+    },
+    "path" : "hurink/edata/la28.txt"
+  },
+  {
+    "name" : "e-la29",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1118,
+      "lower" : 1058
+    },
+    "path" : "hurink/edata/la29.txt"
+  },
+  {
+    "name" : "e-la30",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1204,
+      "lower" : 1147
+    },
+    "path" : "hurink/edata/la30.txt"
+  },
+  {
+    "name" : "e-la31",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1539,
+      "lower" : 1523
+    },
+    "path" : "hurink/edata/la31.txt"
+  },
+  {
+    "name" : "e-la32",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1698,
+    "path" : "hurink/edata/la32.txt"
+  },
+  {
+    "name" : "e-la33",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1547,
+    "path" : "hurink/edata/la33.txt"
+  },
+  {
+    "name" : "e-la34",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1604,
+      "lower" : 1592
+    },
+    "path" : "hurink/edata/la34.txt"
+  },
+  {
+    "name" : "e-la35",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1736,
+    "path" : "hurink/edata/la35.txt"
+  },
+  {
+    "name" : "e-la36",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1160,
+      "lower" : 1006
+    },
+    "path" : "hurink/edata/la36.txt"
+  },
+  {
+    "name" : "e-la37",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1397,
+      "lower" : 1355
+    },
+    "path" : "hurink/edata/la37.txt"
+  },
+  {
+    "name" : "e-la38",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1144,
+      "lower" : 1019
+    },
+    "path" : "hurink/edata/la38.txt"
+  },
+  {
+    "name" : "e-la39",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1184,
+      "lower" : 1151
+    },
+    "path" : "hurink/edata/la39.txt"
+  },
+  {
+    "name" : "e-la40",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1150,
+      "lower" : 1034
+    },
+    "path" : "hurink/edata/la40.txt"
+  },
+  {
+    "name" : "e-abz5",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1176,
+      "lower" : 859
+    },
+    "path" : "hurink/edata/abz5.txt"
+  },
+  {
+    "name" : "e-abz6",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 925,
+      "lower" : 742
+    },
+    "path" : "hurink/edata/abz6.txt"
+  },
+  {
+    "name" : "e-abz7",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 638,
+      "lower" : 492
+    },
+    "path" : "hurink/edata/abz7.txt"
+  },
+  {
+    "name" : "e-abz8",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 654,
+      "lower" : 506
+    },
+    "path" : "hurink/edata/abz8.txt"
+  },
+  {
+    "name" : "e-abz9",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 668,
+      "lower" : 497
+    },
+    "path" : "hurink/edata/abz9.txt"
+  },
+  {
+    "name" : "e-car1",
+    "jobs" : 11,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 6176,
+      "lower" : 5005
+    },
+    "path" : "hurink/edata/car1.txt"
+  },
+  {
+    "name" : "e-car2",
+    "jobs" : 13,
+    "machines" : 4,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 6455,
+      "lower" : 5929
+    },
+    "path" : "hurink/edata/car2.txt"
+  },
+  {
+    "name" : "e-car3",
+    "jobs" : 12,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 6856,
+      "lower" : 5597
+    },
+    "path" : "hurink/edata/car3.txt"
+  },
+  {
+    "name" : "e-car4",
+    "jobs" : 14,
+    "machines" : 4,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 7789,
+      "lower" : 6514
+    },
+    "path" : "hurink/edata/car4.txt"
+  },
+  {
+    "name" : "e-car5",
+    "jobs" : 10,
+    "machines" : 6,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 7229,
+      "lower" : 4909
+    },
+    "path" : "hurink/edata/car5.txt"
+  },
+  {
+    "name" : "e-car6",
+    "jobs" : 8,
+    "machines" : 9,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 8478,
+      "lower" : 5486
+    },
+    "path" : "hurink/edata/car6.txt"
+  },
+  {
+    "name" : "e-car7",
+    "jobs" : 7,
+    "machines" : 7,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 6123,
+      "lower" : 4216
+    },
+    "path" : "hurink/edata/car7.txt"
+  },
+  {
+    "name" : "e-car8",
+    "jobs" : 8,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 7689,
+      "lower" : 4613
+    },
+    "path" : "hurink/edata/car8.txt"
+  },
+  {
+    "name" : "e-orb1",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 988,
+      "lower" : 695
+    },
+    "path" : "hurink/edata/orb1.txt"
+  },
+  {
+    "name" : "e-orb2",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 870,
+      "lower" : 620
+    },
+    "path" : "hurink/edata/orb2.txt"
+  },
+  {
+    "name" : "e-orb3",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 960,
+      "lower" : 648
+    },
+    "path" : "hurink/edata/orb3.txt"
+  },
+  {
+    "name" : "e-orb4",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1016,
+      "lower" : 753
+    },
+    "path" : "hurink/edata/orb4.txt"
+  },
+  {
+    "name" : "e-orb5",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 865,
+      "lower" : 584
+    },
+    "path" : "hurink/edata/orb5.txt"
+  },
+  {
+    "name" : "e-orb6",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1004,
+      "lower" : 715
+    },
+    "path" : "hurink/edata/orb6.txt"
+  },
+  {
+    "name" : "e-orb7",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 387,
+      "lower" : 275
+    },
+    "path" : "hurink/edata/orb7.txt"
+  },
+  {
+    "name" : "e-orb8",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 894,
+      "lower" : 573
+    },
+    "path" : "hurink/edata/orb8.txt"
+  },
+  {
+    "name" : "e-orb9",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 933,
+      "lower" : 659
+    },
+    "path" : "hurink/edata/orb9.txt"
+  },
+  {
+    "name" : "e-orb10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 937,
+      "lower" : 681
+    },
+    "path" : "hurink/edata/orb10.txt"
+  },
+  {
+    "name" : "r-mt06",
+    "jobs" : 6,
+    "machines" : 6,
+    "optimum" : 47,
+    "path" : "hurink/rdata/mt06.txt"
+  },
+  {
+    "name" : "r-mt10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 686,
+      "lower" : 679
+    },
+    "path" : "hurink/rdata/mt10.txt"
+  },
+  {
+    "name" : "r-mt20",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1022,
+    "path" : "hurink/rdata/mt20.txt"
+  },
+  {
+    "name" : "r-la01",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 571,
+      "lower" : 570
+    },
+    "path" : "hurink/rdata/la01.txt"
+  },
+  {
+    "name" : "r-la02",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 530,
+      "lower" : 529
+    },
+    "path" : "hurink/rdata/la02.txt"
+  },
+  {
+    "name" : "r-la03",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 478,
+      "lower" : 477
+    },
+    "path" : "hurink/rdata/la03.txt"
+  },
+  {
+    "name" : "r-la04",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 502,
+    "path" : "hurink/rdata/la04.txt"
+  },
+  {
+    "name" : "r-la05",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 457,
+    "path" : "hurink/rdata/la05.txt"
+  },
+  {
+    "name" : "r-la06",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 799,
+    "path" : "hurink/rdata/la06.txt"
+  },
+  {
+    "name" : "r-la07",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 750,
+      "lower" : 749
+    },
+    "path" : "hurink/rdata/la07.txt"
+  },
+  {
+    "name" : "r-la08",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 765,
+    "path" : "hurink/rdata/la08.txt"
+  },
+  {
+    "name" : "r-la09",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 853,
+    "path" : "hurink/rdata/la09.txt"
+  },
+  {
+    "name" : "r-la10",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 804,
+    "path" : "hurink/rdata/la10.txt"
+  },
+  {
+    "name" : "r-la11",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1071,
+    "path" : "hurink/rdata/la11.txt"
+  },
+  {
+    "name" : "r-la12",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 936,
+    "path" : "hurink/rdata/la12.txt"
+  },
+  {
+    "name" : "r-la13",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1038,
+    "path" : "hurink/rdata/la13.txt"
+  },
+  {
+    "name" : "r-la14",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1070,
+    "path" : "hurink/rdata/la14.txt"
+  },
+  {
+    "name" : "r-la15",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1090,
+      "lower" : 1089
+    },
+    "path" : "hurink/rdata/la15.txt"
+  },
+  {
+    "name" : "r-la16",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 717,
+    "path" : "hurink/rdata/la16.txt"
+  },
+  {
+    "name" : "r-la17",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 646,
+    "path" : "hurink/rdata/la17.txt"
+  },
+  {
+    "name" : "r-la18",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 666,
+    "path" : "hurink/rdata/la18.txt"
+  },
+  {
+    "name" : "r-la19",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 700,
+      "lower" : 647
+    },
+    "path" : "hurink/rdata/la19.txt"
+  },
+  {
+    "name" : "r-la20",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 757,
+    "path" : "hurink/rdata/la20.txt"
+  },
+  {
+    "name" : "r-la21",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 835,
+      "lower" : 808
+    },
+    "path" : "hurink/rdata/la21.txt"
+  },
+  {
+    "name" : "r-la22",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 760,
+      "lower" : 737
+    },
+    "path" : "hurink/rdata/la22.txt"
+  },
+  {
+    "name" : "r-la23",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 842,
+      "lower" : 816
+    },
+    "path" : "hurink/rdata/la23.txt"
+  },
+  {
+    "name" : "r-la24",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 804,
+      "lower" : 775
+    },
+    "path" : "hurink/rdata/la24.txt"
+  },
+  {
+    "name" : "r-la25",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 791,
+      "lower" : 752
+    },
+    "path" : "hurink/rdata/la25.txt"
+  },
+  {
+    "name" : "r-la26",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1061,
+      "lower" : 1056
+    },
+    "path" : "hurink/rdata/la26.txt"
+  },
+  {
+    "name" : "r-la27",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1056,
+      "lower" : 1085
+    },
+    "path" : "hurink/rdata/la27.txt"
+  },
+  {
+    "name" : "r-la28",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1080,
+      "lower" : 1075
+    },
+    "path" : "hurink/rdata/la28.txt"
+  },
+  {
+    "name" : "r-la29",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 998,
+      "lower" : 993
+    },
+    "path" : "hurink/rdata/la29.txt"
+  },
+  {
+    "name" : "r-la30",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1078,
+      "lower" : 1068
+    },
+    "path" : "hurink/rdata/la30.txt"
+  },
+  {
+    "name" : "r-la31",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1521,
+      "lower" : 1520
+    },
+    "path" : "hurink/rdata/la31.txt"
+  },
+  {
+    "name" : "r-la32",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1659,
+      "lower" : 1657
+    },
+    "path" : "hurink/rdata/la32.txt"
+  },
+  {
+    "name" : "r-la33",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1499,
+      "lower" : 1497
+    },
+    "path" : "hurink/rdata/la33.txt"
+  },
+  {
+    "name" : "r-la34",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1536,
+      "lower" : 1535
+    },
+    "path" : "hurink/rdata/la34.txt"
+  },
+  {
+    "name" : "r-la35",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1550,
+      "lower" : 1549
+    },
+    "path" : "hurink/rdata/la35.txt"
+  },
+  {
+    "name" : "r-la36",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1030,
+      "lower" : 1016
+    },
+    "path" : "hurink/rdata/la36.txt"
+  },
+  {
+    "name" : "r-la37",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1077,
+      "lower" : 989
+    },
+    "path" : "hurink/rdata/la37.txt"
+  },
+  {
+    "name" : "r-la38",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 962,
+      "lower" : 943
+    },
+    "path" : "hurink/rdata/la38.txt"
+  },
+  {
+    "name" : "r-la39",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1018,
+      "lower" : 966
+    },
+    "path" : "hurink/rdata/la39.txt"
+  },
+  {
+    "name" : "r-la40",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 970,
+      "lower" : 955
+    },
+    "path" : "hurink/rdata/la40.txt"
+  },
+  {
+    "name" : "r-abz5",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 962,
+      "lower" : 859
+    },
+    "path" : "hurink/rdata/abz5.txt"
+  },
+  {
+    "name" : "r-abz6",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 807,
+      "lower" : 742
+    },
+    "path" : "hurink/rdata/abz6.txt"
+  },
+  {
+    "name" : "r-abz7",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 544,
+      "lower" : 492
+    },
+    "path" : "hurink/rdata/abz7.txt"
+  },
+  {
+    "name" : "r-abz8",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 555,
+      "lower" : 506
+    },
+    "path" : "hurink/rdata/abz8.txt"
+  },
+  {
+    "name" : "r-abz9",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 562,
+      "lower" : 497
+    },
+    "path" : "hurink/rdata/abz9.txt"
+  },
+  {
+    "name" : "r-car1",
+    "jobs" : 11,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5057,
+      "lower" : 5005
+    },
+    "path" : "hurink/rdata/car1.txt"
+  },
+  {
+    "name" : "r-car2",
+    "jobs" : 13,
+    "machines" : 4,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5987,
+      "lower" : 5929
+    },
+    "path" : "hurink/rdata/car2.txt"
+  },
+  {
+    "name" : "r-car3",
+    "jobs" : 12,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5626,
+      "lower" : 5597
+    },
+    "path" : "hurink/rdata/car3.txt"
+  },
+  {
+    "name" : "r-car4",
+    "jobs" : 14,
+    "machines" : 4,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 6518,
+      "lower" : 6514
+    },
+    "path" : "hurink/rdata/car4.txt"
+  },
+  {
+    "name" : "r-car5",
+    "jobs" : 10,
+    "machines" : 6,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5764,
+      "lower" : 4909
+    },
+    "path" : "hurink/rdata/car5.txt"
+  },
+  {
+    "name" : "r-car6",
+    "jobs" : 8,
+    "machines" : 9,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 6147,
+      "lower" : 5486
+    },
+    "path" : "hurink/rdata/car6.txt"
+  },
+  {
+    "name" : "r-car7",
+    "jobs" : 7,
+    "machines" : 7,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 4432,
+      "lower" : 4216
+    },
+    "path" : "hurink/rdata/car7.txt"
+  },
+  {
+    "name" : "r-car8",
+    "jobs" : 8,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5692,
+      "lower" : 4613
+    },
+    "path" : "hurink/rdata/car8.txt"
+  },
+  {
+    "name" : "r-orb1",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 763,
+      "lower" : 695
+    },
+    "path" : "hurink/rdata/orb1.txt"
+  },
+  {
+    "name" : "r-orb2",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 703,
+      "lower" : 620
+    },
+    "path" : "hurink/rdata/orb2.txt"
+  },
+  {
+    "name" : "r-orb3",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 720,
+      "lower" : 648
+    },
+    "path" : "hurink/rdata/orb3.txt"
+  },
+  {
+    "name" : "r-orb4",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 753,
+    "path" : "hurink/rdata/orb4.txt"
+  },
+  {
+    "name" : "r-orb5",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 643,
+      "lower" : 584
+    },
+    "path" : "hurink/rdata/orb5.txt"
+  },
+  {
+    "name" : "r-orb6",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 766,
+      "lower" : 715
+    },
+    "path" : "hurink/rdata/orb6.txt"
+  },
+  {
+    "name" : "r-orb7",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 302,
+      "lower" : 275
+    },
+    "path" : "hurink/rdata/orb7.txt"
+  },
+  {
+    "name" : "r-orb8",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 651,
+      "lower" : 573
+    },
+    "path" : "hurink/rdata/orb8.txt"
+  },
+  {
+    "name" : "r-orb9",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 694,
+      "lower" : 659
+    },
+    "path" : "hurink/rdata/orb9.txt"
+  },
+  {
+    "name" : "r-orb10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 750,
+      "lower" : 681
+    },
+    "path" : "hurink/rdata/orb10.txt"
+  },
+  {
+    "name" : "v-mt06",
+    "jobs" : 6,
+    "machines" : 6,
+    "optimum" : 47,
+    "path" : "hurink/vdata/mt06.txt"
+  },
+  {
+    "name" : "v-mt10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 655,
+    "path" : "hurink/vdata/mt10.txt"
+  },
+  {
+    "name" : "v-mt20",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1022,
+    "path" : "hurink/vdata/mt20.txt"
+  },
+  {
+    "name" : "v-la01",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 570,
+    "path" : "hurink/vdata/la01.txt"
+  },
+  {
+    "name" : "v-la02",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 529,
+    "path" : "hurink/vdata/la02.txt"
+  },
+  {
+    "name" : "v-la03",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 477,
+    "path" : "hurink/vdata/la03.txt"
+  },
+  {
+    "name" : "v-la04",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 502,
+    "path" : "hurink/vdata/la04.txt"
+  },
+  {
+    "name" : "v-la05",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 457,
+    "path" : "hurink/vdata/la05.txt"
+  },
+  {
+    "name" : "v-la06",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 799,
+    "path" : "hurink/vdata/la06.txt"
+  },
+  {
+    "name" : "v-la07",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 749,
+    "path" : "hurink/vdata/la07.txt"
+  },
+  {
+    "name" : "v-la08",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 765,
+    "path" : "hurink/vdata/la08.txt"
+  },
+  {
+    "name" : "v-la09",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 853,
+    "path" : "hurink/vdata/la09.txt"
+  },
+  {
+    "name" : "v-la10",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 804,
+    "path" : "hurink/vdata/la10.txt"
+  },
+  {
+    "name" : "v-la11",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1071,
+    "path" : "hurink/vdata/la11.txt"
+  },
+  {
+    "name" : "v-la12",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 936,
+    "path" : "hurink/vdata/la12.txt"
+  },
+  {
+    "name" : "v-la13",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1038,
+    "path" : "hurink/vdata/la13.txt"
+  },
+  {
+    "name" : "v-la14",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1070,
+    "path" : "hurink/vdata/la14.txt"
+  },
+  {
+    "name" : "v-la15",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1089,
+    "path" : "hurink/vdata/la15.txt"
+  },
+  {
+    "name" : "v-la16",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 717,
+    "path" : "hurink/vdata/la16.txt"
+  },
+  {
+    "name" : "v-la17",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 646,
+    "path" : "hurink/vdata/la17.txt"
+  },
+  {
+    "name" : "v-la18",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 663,
+    "path" : "hurink/vdata/la18.txt"
+  },
+  {
+    "name" : "v-la19",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 617,
+    "path" : "hurink/vdata/la19.txt"
+  },
+  {
+    "name" : "v-la20",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 756,
+    "path" : "hurink/vdata/la20.txt"
+  },
+  {
+    "name" : "v-la21",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 804,
+      "lower" : 800
+    },
+    "path" : "hurink/vdata/la21.txt"
+  },
+  {
+    "name" : "v-la22",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 736,
+      "lower" : 733
+    },
+    "path" : "hurink/vdata/la22.txt"
+  },
+  {
+    "name" : "v-la23",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 815,
+      "lower" : 809
+    },
+    "path" : "hurink/vdata/la23.txt"
+  },
+  {
+    "name" : "v-la24",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 775,
+      "lower" : 773
+    },
+    "path" : "hurink/vdata/la24.txt"
+  },
+  {
+    "name" : "v-la25",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 756,
+      "lower" : 751
+    },
+    "path" : "hurink/vdata/la25.txt"
+  },
+  {
+    "name" : "v-la26",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1054,
+      "lower" : 1052
+    },
+    "path" : "hurink/vdata/la26.txt"
+  },
+  {
+    "name" : "v-la27",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1084,
+    "path" : "hurink/vdata/la27.txt"
+  },
+  {
+    "name" : "v-la28",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1070,
+      "lower" : 1069
+    },
+    "path" : "hurink/vdata/la28.txt"
+  },
+  {
+    "name" : "v-la29",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 994,
+      "lower" : 993
+    },
+    "path" : "hurink/vdata/la29.txt"
+  },
+  {
+    "name" : "v-la30",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1069,
+      "lower" : 1068
+    },
+    "path" : "hurink/vdata/la30.txt"
+  },
+  {
+    "name" : "v-la31",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1520,
+    "path" : "hurink/vdata/la31.txt"
+  },
+  {
+    "name" : "v-la32",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1658,
+      "lower" : 1657
+    },
+    "path" : "hurink/vdata/la32.txt"
+  },
+  {
+    "name" : "v-la33",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1497,
+    "path" : "hurink/vdata/la33.txt"
+  },
+  {
+    "name" : "v-la34",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1535,
+    "path" : "hurink/vdata/la34.txt"
+  },
+  {
+    "name" : "v-la35",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1549,
+    "path" : "hurink/vdata/la35.txt"
+  },
+  {
+    "name" : "v-la36",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 948,
+    "path" : "hurink/vdata/la36.txt"
+  },
+  {
+    "name" : "v-la37",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 986,
+    "path" : "hurink/vdata/la37.txt"
+  },
+  {
+    "name" : "v-la38",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 943,
+    "path" : "hurink/vdata/la38.txt"
+  },
+  {
+    "name" : "v-la39",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 922,
+    "path" : "hurink/vdata/la39.txt"
+  },
+  {
+    "name" : "v-la40",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 955,
+    "path" : "hurink/vdata/la40.txt"
+  },
+  {
+    "name" : "v-abz5",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 860,
+      "lower" : 859
+    },
+    "path" : "hurink/vdata/abz5.txt"
+  },
+  {
+    "name" : "v-abz6",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 742,
+    "path" : "hurink/vdata/abz6.txt"
+  },
+  {
+    "name" : "v-abz7",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 495,
+      "lower" : 492
+    },
+    "path" : "hurink/vdata/abz7.txt"
+  },
+  {
+    "name" : "v-abz8",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 509,
+      "lower" : 506
+    },
+    "path" : "hurink/vdata/abz8.txt"
+  },
+  {
+    "name" : "v-abz9",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 500,
+      "lower" : 497
+    },
+    "path" : "hurink/vdata/abz9.txt"
+  },
+  {
+    "name" : "v-car1",
+    "jobs" : 11,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5013,
+      "lower" : 5005
+    },
+    "path" : "hurink/vdata/car1.txt"
+  },
+  {
+    "name" : "v-car2",
+    "jobs" : 13,
+    "machines" : 4,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5930,
+      "lower" : 5929
+    },
+    "path" : "hurink/vdata/car2.txt"
+  },
+  {
+    "name" : "v-car3",
+    "jobs" : 12,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 5600,
+      "lower" : 5597
+    },
+    "path" : "hurink/vdata/car3.txt"
+  },
+  {
+    "name" : "v-car4",
+    "jobs" : 14,
+    "machines" : 4,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 6517,
+      "lower" : 6514
+    },
+    "path" : "hurink/vdata/car4.txt"
+  },
+  {
+    "name" : "v-car5",
+    "jobs" : 10,
+    "machines" : 6,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 4932,
+      "lower" : 4909
+    },
+    "path" : "hurink/vdata/car5.txt"
+  },
+  {
+    "name" : "v-car6",
+    "jobs" : 8,
+    "machines" : 9,
+    "optimum" : 5486,
+    "path" : "hurink/vdata/car6.txt"
+  },
+  {
+    "name" : "v-car7",
+    "jobs" : 7,
+    "machines" : 7,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 4281,
+      "lower" : 4216
+    },
+    "path" : "hurink/vdata/car7.txt"
+  },
+  {
+    "name" : "v-car8",
+    "jobs" : 8,
+    "machines" : 8,
+    "optimum" : 4613,
+    "path" : "hurink/vdata/car8.txt"
+  },
+  {
+    "name" : "v-orb1",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 695,
+    "path" : "hurink/vdata/orb1.txt"
+  },
+  {
+    "name" : "v-orb2",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 620,
+    "path" : "hurink/vdata/orb2.txt"
+  },
+  {
+    "name" : "v-orb3",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 648,
+    "path" : "hurink/vdata/orb3.txt"
+  },
+  {
+    "name" : "v-orb4",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 753,
+    "path" : "hurink/vdata/orb4.txt"
+  },
+  {
+    "name" : "v-orb5",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 584,
+    "path" : "hurink/vdata/orb5.txt"
+  },
+  {
+    "name" : "v-orb6",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 715,
+    "path" : "hurink/vdata/orb6.txt"
+  },
+  {
+    "name" : "v-orb7",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 275,
+    "path" : "hurink/vdata/orb7.txt"
+  },
+  {
+    "name" : "v-orb8",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 573,
+    "path" : "hurink/vdata/orb8.txt"
+  },
+  {
+    "name" : "v-orb9",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 659,
+    "path" : "hurink/vdata/orb9.txt"
+  },
+  {
+    "name" : "v-orb10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 681,
+    "path" : "hurink/vdata/orb10.txt"
   }
 ]
