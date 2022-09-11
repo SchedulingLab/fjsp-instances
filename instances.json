@@ -231,11 +231,7 @@
     "name" : "e-la11",
     "jobs" : 20,
     "machines" : 5,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1103,
-      "lower" : 1087
-    },
+    "optimum" : 1103,
     "path" : "hurink/edata/la11.txt"
   },
   {
@@ -316,11 +312,7 @@
     "name" : "e-la22",
     "jobs" : 15,
     "machines" : 10,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 882,
-      "lower" : 832
-    },
+    "optimum" : 880,
     "path" : "hurink/edata/la22.txt"
   },
   {
@@ -334,22 +326,14 @@
     "name" : "e-la24",
     "jobs" : 15,
     "machines" : 10,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 909,
-      "lower" : 881
-    },
+    "optimum" : 908,
     "path" : "hurink/edata/la24.txt"
   },
   {
     "name" : "e-la25",
     "jobs" : 15,
     "machines" : 10,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 941,
-      "lower" : 894
-    },
+    "optimum" : 936,
     "path" : "hurink/edata/la25.txt"
   },
   {
@@ -436,11 +420,7 @@
     "name" : "e-la34",
     "jobs" : 30,
     "machines" : 10,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1604,
-      "lower" : 1592
-    },
+    "optimum" : 1599,
     "path" : "hurink/edata/la34.txt"
   },
   {
@@ -454,55 +434,35 @@
     "name" : "e-la36",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1160,
-      "lower" : 1006
-    },
+    "optimum" : 1160,
     "path" : "hurink/edata/la36.txt"
   },
   {
     "name" : "e-la37",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1397,
-      "lower" : 1355
-    },
+    "optimum" : 1397,
     "path" : "hurink/edata/la37.txt"
   },
   {
     "name" : "e-la38",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1144,
-      "lower" : 1019
-    },
+    "optimum" : 1141,
     "path" : "hurink/edata/la38.txt"
   },
   {
     "name" : "e-la39",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1184,
-      "lower" : 1151
-    },
+    "optimum" : 1184,
     "path" : "hurink/edata/la39.txt"
   },
   {
     "name" : "e-la40",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1150,
-      "lower" : 1034
-    },
+    "optimum" : 1144,
     "path" : "hurink/edata/la40.txt"
   },
   {
@@ -798,11 +758,7 @@
     "name" : "r-la02",
     "jobs" : 10,
     "machines" : 5,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 530,
-      "lower" : 529
-    },
+    "optimum" : 529,
     "path" : "hurink/rdata/la02.txt"
   },
   {
@@ -933,11 +889,7 @@
     "name" : "r-la19",
     "jobs" : 10,
     "machines" : 10,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 700,
-      "lower" : 647
-    },
+    "optimum" : 700,
     "path" : "hurink/rdata/la19.txt"
   },
   {
@@ -1116,11 +1068,7 @@
     "name" : "r-la36",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1030,
-      "lower" : 1016
-    },
+    "optimum" : 1023,
     "path" : "hurink/rdata/la36.txt"
   },
   {
@@ -1138,22 +1086,14 @@
     "name" : "r-la38",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 962,
-      "lower" : 943
-    },
+    "optimum" : 954,
     "path" : "hurink/rdata/la38.txt"
   },
   {
     "name" : "r-la39",
     "jobs" : 15,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1018,
-      "lower" : 966
-    },
+    "optimum" : 1011,
     "path" : "hurink/rdata/la39.txt"
   },
   {
@@ -1957,5 +1897,375 @@
     "machines" : 10,
     "optimum" : 681,
     "path" : "hurink/vdata/orb10.txt"
-  }
+  },
+  {
+    "name" : "dpp01",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2518,
+      "lower" : 2505
+    },
+    "path" : "dauzere/01a.txt"
+  },
+  {
+    "name" : "dpp02",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2231,
+      "lower" : 2228
+    },
+    "path" : "dauzere/02a.txt"
+  },
+  {
+    "name" : "dpp03",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2229,
+      "lower" : 2228
+    },
+    "path" : "dauzere/03a.txt"
+  },
+  {
+    "name" : "dpp04",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 2503,
+    "path" : "dauzere/03a.txt"
+  },
+  {
+    "name" : "dpp05",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2216,
+      "lower" : 2189
+    },
+    "path" : "dauzere/05a.txt"
+  },
+  {
+    "name" : "dpp06",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2196,
+      "lower" : 2162
+    },
+    "path" : "dauzere/06a.txt"
+  },
+  {
+    "name" : "dpp07",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2283,
+      "lower" : 2187
+    },
+    "path" : "dauzere/07a.txt"
+  },
+  {
+    "name" : "dpp08",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2069,
+      "lower" : 2061
+    },
+    "path" : "dauzere/08a.txt"
+  },
+  {
+    "name" : "dpp09",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2066,
+      "lower" : 2061
+    },
+    "path" : "dauzere/09a.txt"
+  },
+  {
+    "name" : "dpp10",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2291,
+      "lower" : 2178
+    },
+    "path" : "dauzere/10a.txt"
+  },
+  {
+    "name" : "dpp11",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2063,
+      "lower" : 2017
+    },
+    "path" : "dauzere/11a.txt"
+  },
+  {
+    "name" : "dpp12",
+    "jobs" : 15,
+    "machines" : 8,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2030,
+      "lower" : 1969
+    },
+    "path" : "dauzere/12a.txt"
+  },
+  {
+    "name" : "dpp13",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2257,
+      "lower" : 2161
+    },
+    "path" : "dauzere/13a.txt"
+  },
+  {
+    "name" : "dpp14",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2167,
+      "lower" : 2161
+    },
+    "path" : "dauzere/14a.txt"
+  },
+  {
+    "name" : "dpp15",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2165,
+      "lower" : 2161
+    },
+    "path" : "dauzere/15a.txt"
+  },
+  {
+    "name" : "dpp16",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2255,
+      "lower" : 2148
+    },
+    "path" : "dauzere/16a.txt"
+  },
+  {
+    "name" : "dpp17",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2140,
+      "lower" : 2088
+    },
+    "path" : "dauzere/17a.txt"
+  },
+  {
+    "name" : "dpp18",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2127,
+      "lower" : 2057
+    },
+    "path" : "dauzere/18a.txt"
+  },
+  {
+    "name" : "mt10x",
+    "jobs" : 10,
+    "machines" : 11,
+    "optimum" : 918,
+    "path" : "barnes/mt10x.txt"
+  },
+  {
+    "name" : "mt10xx",
+    "jobs" : 10,
+    "machines" : 12,
+    "optimum" : 918,
+    "path" : "barnes/mt10xx.txt"
+  },
+  {
+    "name" : "mt10xxx",
+    "jobs" : 10,
+    "machines" : 13,
+    "optimum" : 918,
+    "path" : "barnes/mt10xxx.txt"
+  },
+  {
+    "name" : "mt10xy",
+    "jobs" : 10,
+    "machines" : 12,
+    "optimum" : 905,
+    "path" : "barnes/mt10xy.txt"
+  },
+  {
+    "name" : "mt10xyz",
+    "jobs" : 10,
+    "machines" : 13,
+    "optimum" : 847,
+    "path" : "barnes/mt10xyz.txt"
+  },
+  {
+    "name" : "mt10c1",
+    "jobs" : 10,
+    "machines" : 11,
+    "optimum" : 927,
+    "path" : "barnes/mt10c1.txt"
+  },
+  {
+    "name" : "mt10cc",
+    "jobs" : 10,
+    "machines" : 12,
+    "optimum" : 908,
+    "path" : "barnes/mt10cc.txt"
+  },
+  {
+    "name" : "setb4x",
+    "jobs" : 15,
+    "machines" : 11,
+    "optimum" : 925,
+    "path" : "barnes/setb4x.txt"
+  },
+  {
+    "name" : "setb4xx",
+    "jobs" : 15,
+    "machines" : 12,
+    "optimum" : 925,
+    "path" : "barnes/setb4xx.txt"
+  },
+  {
+    "name" : "setb4xxx",
+    "jobs" : 15,
+    "machines" : 13,
+    "optimum" : 925,
+    "path" : "barnes/setb4xxx.txt"
+  },
+  {
+    "name" : "setb4xy",
+    "jobs" : 15,
+    "machines" : 12,
+    "optimum" : 910,
+    "path" : "barnes/setb4xy.txt"
+  },
+  {
+    "name" : "setb4xyz",
+    "jobs" : 15,
+    "machines" : 13,
+    "optimum" : 902,
+    "path" : "barnes/setb4xyz.txt"
+  },
+  {
+    "name" : "setb4c9",
+    "jobs" : 15,
+    "machines" : 11,
+    "optimum" : 914,
+    "path" : "barnes/setb4c9.txt"
+  },
+  {
+    "name" : "setb4cc",
+    "jobs" : 15,
+    "machines" : 12,
+    "optimum" : 907,
+    "path" : "barnes/setb4cc.txt"
+  },
+  {
+    "name" : "seti5x",
+    "jobs" : 15,
+    "machines" : 16,
+    "optimum" : 1198,
+    "path" : "barnes/seti5x.txt"
+  },
+  {
+    "name" : "seti5xx",
+    "jobs" : 15,
+    "machines" : 17,
+    "optimum" : 1194,
+    "path" : "barnes/seti5xx.txt"
+  },
+  {
+    "name" : "seti5xxx",
+    "jobs" : 15,
+    "machines" : 18,
+    "optimum" : 1194,
+    "path" : "barnes/seti5xxx.txt"
+  },
+  {
+    "name" : "seti5xy",
+    "jobs" : 15,
+    "machines" : 17,
+    "optimum" : 1135,
+    "path" : "barnes/seti5xy.txt"
+  },
+  {
+    "name" : "seti5xyz",
+    "jobs" : 15,
+    "machines" : 18,
+    "optimum" : 1125,
+    "path" : "barnes/seti5xyz.txt"
+  },
+  {
+    "name" : "seti5c12",
+    "jobs" : 15,
+    "machines" : 16,
+    "optimum" : 1169,
+    "path" : "barnes/seti5c12.txt"
+  },
+  {
+    "name" : "seti5cc",
+    "jobs" : 15,
+    "machines" : 17,
+    "optimum" : 1135,
+    "path" : "barnes/seti5cc.txt"
+  },
+  {
+    "name" : "k1",
+    "jobs" : 4,
+    "machines" : 5,
+    "optimum" : 11,
+    "path" : "kacem/k1.txt"
+  },
+  {
+    "name" : "k2",
+    "jobs" : 10,
+    "machines" : 7,
+    "optimum" : 11,
+    "path" : "kacem/k2.txt"
+  },
+  {
+    "name" : "k3",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 7,
+    "path" : "kacem/k3.txt"
+  },
+  {
+    "name" : "k4",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : 12,
+    "path" : "kacem/k4.txt"
+  },
+
 ]
