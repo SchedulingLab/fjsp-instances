@@ -1,0 +1,29 @@
+{
+  "machines": 2,
+  "jobs": [
+    [
+      [ { "machine": 0, "processing": 43 } ],
+      [
+        { "machine": 0, "processing": 87 },
+        { "machine": 1, "processing": 95 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 63 },
+        { "machine": 1, "processing": 53 }
+      ],
+      [ { "machine": 1, "processing": 73 } ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 125 },
+        { "machine": 1, "processing": 135 }
+      ],
+      [
+        { "machine": 0, "processing": 43 },
+        { "machine": 1, "processing": 61 }
+      ]
+    ]
+  ]
+}

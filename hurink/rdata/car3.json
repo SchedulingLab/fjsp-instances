@@ -1,0 +1,238 @@
+{
+  "machines": 5,
+  "jobs": [
+    [
+      [ { "machine": 0, "processing": 456 } ],
+      [ { "machine": 1, "processing": 537 } ],
+      [
+        { "machine": 2, "processing": 123 },
+        { "machine": 1, "processing": 123 }
+      ],
+      [ { "machine": 3, "processing": 214 } ],
+      [ { "machine": 4, "processing": 234 } ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 789 },
+        { "machine": 2, "processing": 789 }
+      ],
+      [
+        { "machine": 1, "processing": 854 },
+        { "machine": 2, "processing": 854 }
+      ],
+      [
+        { "machine": 2, "processing": 225 },
+        { "machine": 4, "processing": 225 },
+        { "machine": 1, "processing": 225 }
+      ],
+      [
+        { "machine": 3, "processing": 528 },
+        { "machine": 4, "processing": 528 },
+        { "machine": 0, "processing": 528 }
+      ],
+      [
+        { "machine": 4, "processing": 123 },
+        { "machine": 1, "processing": 123 },
+        { "machine": 2, "processing": 123 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 876 },
+        { "machine": 2, "processing": 876 }
+      ],
+      [
+        { "machine": 1, "processing": 632 },
+        { "machine": 0, "processing": 632 }
+      ],
+      [
+        { "machine": 2, "processing": 588 },
+        { "machine": 3, "processing": 588 }
+      ],
+      [
+        { "machine": 3, "processing": 896 },
+        { "machine": 0, "processing": 896 },
+        { "machine": 2, "processing": 896 }
+      ],
+      [
+        { "machine": 4, "processing": 456 },
+        { "machine": 1, "processing": 456 }
+      ]
+    ],
+    [
+      [ { "machine": 0, "processing": 543 } ],
+      [
+        { "machine": 1, "processing": 145 },
+        { "machine": 3, "processing": 145 },
+        { "machine": 0, "processing": 145 }
+      ],
+      [
+        { "machine": 2, "processing": 669 },
+        { "machine": 3, "processing": 669 }
+      ],
+      [
+        { "machine": 3, "processing": 325 },
+        { "machine": 4, "processing": 325 },
+        { "machine": 2, "processing": 325 }
+      ],
+      [
+        { "machine": 4, "processing": 789 },
+        { "machine": 3, "processing": 789 },
+        { "machine": 2, "processing": 789 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 210 },
+        { "machine": 1, "processing": 210 }
+      ],
+      [ { "machine": 1, "processing": 785 } ],
+      [
+        { "machine": 2, "processing": 966 },
+        { "machine": 1, "processing": 966 },
+        { "machine": 4, "processing": 966 }
+      ],
+      [
+        { "machine": 3, "processing": 147 },
+        { "machine": 1, "processing": 147 },
+        { "machine": 4, "processing": 147 }
+      ],
+      [ { "machine": 4, "processing": 876 } ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 123 },
+        { "machine": 4, "processing": 123 },
+        { "machine": 1, "processing": 123 }
+      ],
+      [ { "machine": 1, "processing": 214 } ],
+      [
+        { "machine": 2, "processing": 332 },
+        { "machine": 1, "processing": 332 },
+        { "machine": 4, "processing": 332 }
+      ],
+      [
+        { "machine": 3, "processing": 856 },
+        { "machine": 4, "processing": 856 }
+      ],
+      [
+        { "machine": 4, "processing": 543 },
+        { "machine": 1, "processing": 543 },
+        { "machine": 3, "processing": 543 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 456 },
+        { "machine": 4, "processing": 456 },
+        { "machine": 2, "processing": 456 }
+      ],
+      [ { "machine": 1, "processing": 752 } ],
+      [ { "machine": 2, "processing": 144 } ],
+      [
+        { "machine": 3, "processing": 321 },
+        { "machine": 0, "processing": 321 }
+      ],
+      [
+        { "machine": 4, "processing": 210 },
+        { "machine": 0, "processing": 210 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 789 },
+        { "machine": 4, "processing": 789 }
+      ],
+      [
+        { "machine": 1, "processing": 143 },
+        { "machine": 0, "processing": 143 }
+      ],
+      [
+        { "machine": 2, "processing": 755 },
+        { "machine": 3, "processing": 755 }
+      ],
+      [
+        { "machine": 3, "processing": 427 },
+        { "machine": 0, "processing": 427 }
+      ],
+      [ { "machine": 4, "processing": 123 } ]
+    ],
+    [
+      [ { "machine": 0, "processing": 876 } ],
+      [
+        { "machine": 1, "processing": 698 },
+        { "machine": 3, "processing": 698 }
+      ],
+      [
+        { "machine": 2, "processing": 322 },
+        { "machine": 0, "processing": 322 }
+      ],
+      [
+        { "machine": 3, "processing": 546 },
+        { "machine": 1, "processing": 546 }
+      ],
+      [
+        { "machine": 4, "processing": 456 },
+        { "machine": 3, "processing": 456 },
+        { "machine": 0, "processing": 456 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 543 },
+        { "machine": 4, "processing": 543 },
+        { "machine": 2, "processing": 543 }
+      ],
+      [
+        { "machine": 1, "processing": 532 },
+        { "machine": 2, "processing": 532 }
+      ],
+      [ { "machine": 2, "processing": 100 } ],
+      [ { "machine": 3, "processing": 321 } ],
+      [
+        { "machine": 4, "processing": 789 },
+        { "machine": 0, "processing": 789 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 210 },
+        { "machine": 4, "processing": 210 }
+      ],
+      [
+        { "machine": 1, "processing": 145 },
+        { "machine": 4, "processing": 145 }
+      ],
+      [ { "machine": 2, "processing": 114 } ],
+      [
+        { "machine": 3, "processing": 401 },
+        { "machine": 2, "processing": 401 }
+      ],
+      [
+        { "machine": 4, "processing": 876 },
+        { "machine": 2, "processing": 876 },
+        { "machine": 0, "processing": 876 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 124 },
+        { "machine": 1, "processing": 124 }
+      ],
+      [
+        { "machine": 1, "processing": 247 },
+        { "machine": 3, "processing": 247 }
+      ],
+      [
+        { "machine": 2, "processing": 753 },
+        { "machine": 3, "processing": 753 }
+      ],
+      [
+        { "machine": 3, "processing": 214 },
+        { "machine": 1, "processing": 214 },
+        { "machine": 2, "processing": 214 }
+      ],
+      [ { "machine": 4, "processing": 543 } ]
+    ]
+  ]
+}

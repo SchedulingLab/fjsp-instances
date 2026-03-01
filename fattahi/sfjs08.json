@@ -1,0 +1,47 @@
+{
+  "machines": 4,
+  "jobs": [
+    [
+      [
+        { "machine": 0, "processing": 17 },
+        { "machine": 1, "processing": 25 }
+      ],
+      [
+        { "machine": 3, "processing": 40 },
+        { "machine": 1, "processing": 30 }
+      ],
+      [
+        { "machine": 3, "processing": 150 },
+        { "machine": 2, "processing": 160 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 30 },
+        { "machine": 2, "processing": 50 }
+      ],
+      [
+        { "machine": 3, "processing": 55 },
+        { "machine": 1, "processing": 66 }
+      ],
+      [
+        { "machine": 3, "processing": 78 },
+        { "machine": 2, "processing": 65 }
+      ]
+    ],
+    [
+      [
+        { "machine": 0, "processing": 56 },
+        { "machine": 1, "processing": 62 }
+      ],
+      [
+        { "machine": 1, "processing": 70 },
+        { "machine": 2, "processing": 80 }
+      ],
+      [
+        { "machine": 3, "processing": 90 },
+        { "machine": 2, "processing": 100 }
+      ]
+    ]
+  ]
+}
